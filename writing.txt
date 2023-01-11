@@ -1,4 +1,3 @@
 I'm writing something.
 akom ami kisu add korlam.
-Aro kisu add korlam.
-Life is not a bed of roses
+bug fixing
